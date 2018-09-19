@@ -1,6 +1,5 @@
 {
   "CTF_BLOG_ARTICLE_TYPE_ID": "blogArticle",
-
-  "CTF_SPACE_ID": {{ stringMe contentfulSetupSpaceId }},
-  "CTF_CDA_ACCESS_TOKEN": {{ stringMe contentfulSetupAccessToken }}
+  "CTF_SPACE_ID": "1v625hen1bw7",
+  "CTF_CDA_ACCESS_TOKEN": "51a54d11a6a5c79c0016bf1cc871291c514f6bc4908c2c4ebddaf397bc11e987"
 }
